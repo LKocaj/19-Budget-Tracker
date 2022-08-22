@@ -74,7 +74,7 @@ Email: Lawrencecaj@gmail.com
 Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 <br>
 <br>
-Project Link: https://github.com/LKocaj/
+Project Link: https://github.com/LKocaj/19-Budget-Tracker
 <br>
 <br>
 heroku: https://budget-tracker-pwa-lk.herokuapp.com/ | https://git.heroku.com/budget-tracker-pwa-lk.git
