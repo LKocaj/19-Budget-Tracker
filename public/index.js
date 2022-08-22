@@ -83,7 +83,7 @@ function sendTransaction(isAdding) {
   let amountEl = document.querySelector("#t-amount");
   let errorEl = document.querySelector(".form .error");
 
-  // validate form
+  // validate 
   if (nameEl.value === "" || amountEl.value === "") {
     errorEl.textContent = "Missing Information";
     return;
@@ -92,22 +92,20 @@ function sendTransaction(isAdding) {
     errorEl.textContent = "";
   }
 
-  // create record
+  // create 
   let transaction = {
     name: nameEl.value,
     value: amountEl.value,
     date: new Date().toISOString()
   };
 
-  // if subtracting funds, convert amount to negative number
   if (!isAdding) {
     transaction.value *= -1;
   }
 
-  // add to beginning of current array of data
   transactions.unshift(transaction);
 
-  // re-run logic to populate ui with new record
+  // re-run 
   populateChart();
   populateTable();
   populateTotal();
@@ -129,7 +127,7 @@ function sendTransaction(isAdding) {
       errorEl.textContent = "Missing Information";
     }
     else {
-      // clear form
+      // clear
       nameEl.value = "";
       amountEl.value = "";
     }
