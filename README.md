@@ -1,10 +1,10 @@
 <div id="top"></div>
 <div align="center">
  
-  <h1 align="center">TITLE</h1>
+  <h1 align="center">19. Progressive Web Applications (PWA) Challenge: Budget Tracker</h1>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome budget tracker to help view your spending!
     <br />
     <a href="https://budget-tracker-pwa-lk.herokuapp.com/"><strong>Deployed Heroku App</strong></a>
   </p>
