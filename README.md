@@ -33,6 +33,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<img width="1512" alt="Screen Shot 2022-08-22 at 6 48 52 PM" src="https://user-images.githubusercontent.com/99697175/186033269-f67287c3-2720-494a-96d1-a3a91b9408ea.png">
+<br>
+<img width="757" alt="Screen Shot 2022-08-22 at 6 49 15 PM" src="https://user-images.githubusercontent.com/99697175/186033304-631562c7-5f1f-4665-83fc-ba57de9e873c.png">
+
 Giving users a fast and easy way to track their money is important, but allowing them to access that information at any time is even more important. Having offline functionality is paramount to the success of an application that handles users’ financial information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
