@@ -20,10 +20,9 @@ app.use(express.static("public"));
 mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
   useFindAndModify: false,
-  useUnifiedTopology: true
 });
 
-// routes
+// route
 app.use(require("./routes/api.js"));
 
 app.listen(PORT, () => {
