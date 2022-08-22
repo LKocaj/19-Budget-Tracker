@@ -60,5 +60,5 @@ function deletePending() {
   store.clear();
 }
 
-// listen for app coming back online
+// listen for app coming online
 window.addEventListener("online", checkDatabase);
