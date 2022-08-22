@@ -13,7 +13,6 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -24,16 +23,10 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
-</details>
 
 
 
@@ -55,11 +48,9 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
-
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -68,16 +59,6 @@ Use the `BLANK_README.md` to get started.
 
 A budget tracker that can be used for personal financial information!
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -91,5 +72,3 @@ Project Link: https://github.com/LKocaj/
 heroku: https://budget-tracker-pwa-lk.herokuapp.com/ | https://git.heroku.com/budget-tracker-pwa-lk.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-https://github.com/Ileriayo/markdown-badges
