@@ -1,0 +1,8 @@
+{
+    "name": "Progressive Web Applications (PWA) Challenge: Budget Tracker",
+    "short-Name": "Budget Tracker",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone"
+}
